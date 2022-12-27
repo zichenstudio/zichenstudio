@@ -11,6 +11,6 @@
 - [制作Jekyll-v0.2.1-Standard版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
 - 制作纯Release模版
 ## 已完成计划
-[HERE](./over.md)
+- [HERE](./over.md)
 ## 个人简介
 一个喜欢前端，爱玩游戏的业余程序员。
