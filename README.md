@@ -8,9 +8,10 @@
 ### [个人博客](https://zichenstudio.netlify.app/blog/)
 ### [PILLAR的网站](https://pillarzcs.netlify.app)
 ## 近期计划
-- [制作软件发行模版](https://github.com/ZiChenStudio/template)
-- [制作Jekyll_Mini版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
+- [制作Jekyll-v0.2.1-Standard版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
+- 制作纯Release模版
 ## 已完成计划
+- [制作软件发行模版](https://github.com/ZiChenStudio/software-template)
 - [制作一个关于自己的储存库](https://github.com/ZiChenStudio/zichenstudio)
 - [Pillar的官网](https://github.com/ZiChenStudio/pillar)
 - [制作一个Jekyll模版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
