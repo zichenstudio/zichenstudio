@@ -2,8 +2,7 @@
 
 ---
 
-## 欢迎
-既然来了，就不点个Star吗，求求了。<br>我们甚至连一个Star都没有过:-(
+[![ZiChenStudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiChenStudio)](https://github.com/ZiChenStudio/ZiChenStudio/README.md)
 ### [个人网站](https://zichenstudio.netlify.app/)
 ### [个人博客](https://zichenstudio.netlify.app/blog/)
 ### [PILLAR的网站](https://pillarzcs.netlify.app)
