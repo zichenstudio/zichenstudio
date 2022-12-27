@@ -17,6 +17,6 @@
 喜欢的颜色：#39c5bb; #66ccff $\downarrow$ <br>
 [![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%2339c5bb-39c5bb?style=flat-square)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)[![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%2366ccff-66ccff?style=flat-square)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)
 ## 致谢
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 [Shields.io](https://shields.io/)
