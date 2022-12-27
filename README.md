@@ -16,8 +16,8 @@
 一个喜欢前端，爱玩游戏的业余程序员。<br>
 喜欢的颜色：#39c5bb; #66ccff$\downarrow$<br>
 ![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%2339c5bb-39c5bb?style=flat-square)
-or
-![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%23%2366ccff-66ccff)
+AND
+![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%2366ccff-66ccff?style=flat-square)
 ## 致谢
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
