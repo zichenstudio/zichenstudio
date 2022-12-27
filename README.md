@@ -14,6 +14,6 @@
 - [HERE](./over.md)
 ## 个人简介
 一个喜欢前端，爱玩游戏的业余程序员。
+喜欢的颜色：&\color{#39c5bb}{#39c5bb}$
 ## 致谢
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
