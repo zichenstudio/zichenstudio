@@ -2,7 +2,7 @@
 
 ---
 
-[![ZiChenStudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiChenStudio&count_private=true&show_icons=true&bg_color=39c5bb&locale=cn)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)
+[![ZiChenStudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiChenStudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&locale=cn)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)
 ### [个人网站](https://zichenstudio.netlify.app/)
 ### [个人博客](https://zichenstudio.netlify.app/blog/)
 ### [PILLAR的网站](https://pillarzcs.netlify.app)
