@@ -1,7 +1,7 @@
 # ZiChenStudio 👈
 
 ## 近期计划 😎
-- [ ] 制作Jekyll-v1.2.1-Standard版 😕
+- [ ] 制作Jekyll-v1.4.1-Standard版 😕
 - [ ] 制作纯Release模版 😕
 
 ---
