@@ -2,7 +2,10 @@
 
 ---
 
-## 已完成计划
+## 近期计划
+- [制作Jekyll-v1.2.1-Standard版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
+- 制作纯Release模版
+
 - [制作开源软件发行模版](https://github.com/ZiChenStudio/software-template)
 - [制作一个关于自己的储存库](https://github.com/ZiChenStudio/zichenstudio)
 - [Pillar的官网](https://github.com/ZiChenStudio/pillar)
