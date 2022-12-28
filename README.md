@@ -11,7 +11,7 @@
 喜欢的颜色：[![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%2339c5bb-39c5bb?style=flat-square)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)
 [![AND THIS COLOR](https://img.shields.io/badge/AND%20THIS%20COLOR-%2366ccff-66ccff?style=flat-square)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)
 ## 近期计划👍
-- [HERE](./over.md)
+- [HERE](./jh.md)
 ## 🤝致谢🤝
 [👉github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
