@@ -11,7 +11,3 @@
 [![AND THIS COLOR](https://img.shields.io/badge/AND%20THIS%20COLOR-%2366ccff-66ccff?style=flat-square)](https://github.com/ZiChenStudio/ZiChenStudio/blob/main/README.md)
 ## 近期计划👍
 - [HERE](./jh.md)
-## 🤝致谢🤝
-[👉github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-[👉Shields.io](https://shields.io/)
