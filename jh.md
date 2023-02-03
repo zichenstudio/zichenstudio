@@ -4,7 +4,8 @@
 - [ ] 制作ZC-Download下载站 😕
 
 ---
-- [x] 制作Jekyll-v1.5.1-Standard版 🎉
+- [x] [制作BadMinecraft整合包](https://github.com/ZiChenStudio/BADmcpack)
+- [x] [制作Jekyll-v1.5.1-Standard版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme) 🎉
 - [x] [制作Jekyll-v1.4.1-Standard版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme) 🎉
 - [x] [制作Jekyll-v0.1.6.5-Mini版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme) 🎉
 - [x] [制作开源软件发行模版](https://github.com/ZiChenStudio/software-template) 🎉
