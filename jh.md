@@ -1,7 +1,7 @@
 # ZiChenStudio 👈
 
 ## 近期计划 😎
-- [ ] 维护子沉官网开发者网站 😕
+- [ ] 重置子沉的旧网站 😕
 
 ---
 - [x] [制作BadMinecraft整合包](https://github.com/ZiChenStudio/BADmcpack) 🎉
