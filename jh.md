@@ -2,6 +2,7 @@
 
 ## 近期计划 😎
 - [ ] 增加几条小提示 😕
+- [ ] 制作调查问卷 😕
 
 ---
 - [x] [制作BadMinecraft整合包](https://github.com/ZiChenStudio/BADmcpack) 🎉
