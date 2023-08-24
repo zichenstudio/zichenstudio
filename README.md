@@ -4,7 +4,7 @@
 
 我们的数据并不可观😕
 
-[👉个人网站](https://zichenstudio.netlify.app/) | [👉个人博客](https://zichenstudio.netlify.app/blog/)
+[👉个人网站](https://zichenstudio.netlify.app/) | [👉个人博客](https://zichenstudio.github.io/blog/)
 
 一个喜欢J☕a☕v☕a，爱玩游戏🎮的业余前端程序员🧑‍💻
 
