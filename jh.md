@@ -4,6 +4,7 @@
 - [ ] 制作fasthtml.js库 😕
 
 ---
+- [x] [制作Music Station音乐站](https://github.com/ZiChenStudio/music-station) 🎉
 - [x] 增加几条小提示 🎉
 - [x] [制作BadMinecraft整合包](https://github.com/ZiChenStudio/BADmcpack) 🎉
 - [x] [制作Jekyll-v1.5.1-Standard版](https://github.com/ZiChenStudio/Efficiency_jekyll_theme) 🎉
