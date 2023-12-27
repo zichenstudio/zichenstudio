@@ -1,7 +1,8 @@
 # ZiChenStudio 👈
 
 ## 近期计划 😎
-- [ ] 将blog的about补充完整
+- [ ] 制作子沉的可变色logo网页 😕
+- [ ] 将blog的about补充完整 😕
 - [ ] 制作fasthtml.js库 😕
 
 ---
