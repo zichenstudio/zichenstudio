@@ -6,7 +6,7 @@ return "hello world";
 
 [![](https://img.shields.io/badge/Personal%20pages-zichenstudio.netlify.app-E34F26?logo=html5&logoColor=F5F5F5)](https://zichenstudio.netlify.app/)
 
-Founder of ZiChenStudio. :sunglasses:
+CEO & Co-Founder & Co-Worker of ZiChenStudio. :sunglasses:
 
 An amateur programmer from China. :cn:
 
