@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # ZiChenStudio is here :wave:
 
 ```
@@ -37,15 +40,16 @@ sometimes:
 
 # Loves :heart:
 
-- :keyboard: Coding
-- :abacus: Math
-- :joystick: Game
-- :tv: Anime
-- :headphones: Music
+:keyboard: Coding<br>
+:abacus: Math<br>
+:joystick: Game<br>
+:tv: Anime<br>
+:headphones: Music
 
 # Components :point_left:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiChenStudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&locale=cn)
 
-[Plan](jh.md)
+And my [Plan](jh.md) are here :thumbsup:
 
+</div>
