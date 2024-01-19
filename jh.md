@@ -2,12 +2,12 @@
 
 ## 近期计划 :sunglasses:
 
-- [ ] 重写[ZiChenStudio](https://github.com/ZiChenStudio/ZiChenStudio)的README文件 :thinking:
 - [ ] 将blog的about补充完整 :thinking:
 - [ ] 制作字数统计的JavaScript库 :thinking:
 
 ## 已完成计划
 
+- [x] 重写[ZiChenStudio](https://github.com/ZiChenStudio/ZiChenStudio)的README文件 :tada:
 - [x] [制作JavaTodo软件](https://github.com/ZiChenStudio/TodoApp-Java) :tada:
 - [x] [制作Music Station音乐站](https://github.com/ZiChenStudio/music-station) :tada:
 - [x] 增加几条小提示 :tada:
