@@ -2,8 +2,8 @@
 
 # ZiChenStudio is here :wave:
 
-```
-return "hello world";
+```javascript
+console.log("dlroW olleH".split("").reverse().join(""));
 ```
 
 [![](https://img.shields.io/badge/Personal%20pages-zichenstudio.netlify.app-E34F26?logo=html5&logoColor=F5F5F5)](https://zichenstudio.netlify.app/)
