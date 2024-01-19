@@ -3,7 +3,7 @@
 ## 近期计划 :sunglasses:
 
 - [ ] 重写[ZiChenStudio](https://github.com/ZiChenStudio/ZiChenStudio)的README文件 :thinking:
-- [ ] 制作子沉的可变色logo网页 :thinking:
+- [ ] 制作字数统计的JavaScript库 :thinking:
 - [ ] 将blog的about补充完整 :thinking:
 
 ## 已完成计划
