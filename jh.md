@@ -3,7 +3,6 @@
 ## 近期计划 :sunglasses:
 
 - [ ] 将blog的about补充完整 :thinking:
-- [ ] 制作字数统计的JavaScript库 :thinking:
 
 ## 已完成计划
 
