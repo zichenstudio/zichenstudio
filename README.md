@@ -12,6 +12,10 @@ CEO & Co-Founder & Co-Worker of ZiChenStudio. :sunglasses:
 
 An amateur programmer from China. :cn:
 
+I like the [Google JavaScript Style](https://google.github.io/styleguide/jsguide.html), but I don't strictly adhere to it.
+
+There are no rules that are **'set in stone.'** These are style preferences, **not** religious dogma.
+
 ![LIKE THIS COLOR](https://img.shields.io/badge/LIKE%20THIS%20COLOR-%2339C5BB-39C5BB?style=flat-square)
 
 # Snapshot :page_facing_up:
