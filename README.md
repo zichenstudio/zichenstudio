@@ -12,7 +12,7 @@ CEO & Co-Founder & Co-Worker of ZiChenStudio. :sunglasses:
 
 An amateur programmer from China. :cn:
 
-I like the [Google Style](https://google.github.io/styleguide/), but I don't strictly adhere to it.
+I like the [Google Style](https://github.com/google/styleguide), but I don't strictly adhere to it.
 
 There are no rules that are **'set in stone.'** These are style preferences, **not** religious dogma.
 
