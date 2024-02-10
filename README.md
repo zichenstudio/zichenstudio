@@ -8,7 +8,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 
 [![](https://img.shields.io/badge/Personal%20pages-zichenstudio.netlify.app-E34F26?logo=html5&logoColor=F5F5F5)](https://zichenstudio.netlify.app/)
 
-My name is Imoutop, and I prefer this name. However, you can also call me ZiChen.
+My name is *Imoutop*, and I prefer this name. However, you can also call me *ZiChen*.
 
 CEO & Co-Founder & Co-Worker of ZiChenStudio. :sunglasses:
 
