@@ -8,7 +8,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 
 [![](https://img.shields.io/badge/Personal%20pages-zichenstudio.netlify.app-E34F26?logo=html5&logoColor=F5F5F5)](https://zichenstudio.netlify.app/)
 
-My name is *imoutopia*, and I prefer this name. However, you can also call me *ZiChen*.
+My name is *imoutopia*.
 
 CEO & Co-Founder & Co-Worker of ZiChenStudio. :sunglasses:
 
@@ -57,6 +57,7 @@ sometimes:
 
 And my [Plan](jh.md) are here :thumbsup:
 
-Before, my name was Pillar/柱子2334, but now it's not. Please don't call me that! I'm **imoutopia** now!
+Before, my name was Pillar/柱子2334, but now it's not. Please don't call me that! I'm **imoutopia** now!<br>
+Please don't call me ZiChen, ZiChen is the name of the studio.
 
 </div>
