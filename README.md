@@ -53,7 +53,7 @@ sometimes:
 
 # Components :point_left:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiChenStudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&locale=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&locale=cn)
 
 And my [Plan](jh.md) are here :thumbsup:
 
