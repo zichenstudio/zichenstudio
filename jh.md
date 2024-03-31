@@ -2,10 +2,11 @@
 
 ## 近期计划 :sunglasses:
 
-- [ ] 将blog的about补充完整 :thinking:
+- [ ] 整理[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构 :thinking:
 
 ## 已完成计划
 
+- [x] 将blog的about补充完整 :tada:
 - [x] 重写[ZiChenStudio](https://github.com/ZiChenStudio/ZiChenStudio)的README文件 :tada:
 - [x] [制作JavaTodo软件](https://github.com/ZiChenStudio/TodoApp-Java) :tada:
 - [x] [制作Music Station音乐站](https://github.com/ZiChenStudio/music-station) :tada:
