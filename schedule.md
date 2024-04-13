@@ -1,12 +1,12 @@
 # Schedule
 
-## 2024/04/15-21
+### 2024/04/15-21
 
 - [ ] 写一篇叫《跳啊！》的文章，在Blog发布
 - [ ] 看电影《爱尔兰人》(2019)
 - [ ] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
 
-## 长期计划(2024/04)
+### 长期计划(2024/04)
 
 - [ ] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
 
