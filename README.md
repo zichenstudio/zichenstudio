@@ -55,9 +55,8 @@ sometimes:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&locale=cn)
 
-And my [Plan](jh.md) are here :thumbsup:
+And my [Schedule](schedule.md) are here :thumbsup:
 
-Before, my name was Pillar/柱子2334, but now it's not. Please don't call me that! I'm **imoutopia** now!<br>
-Please don't call me ZiChen, ZiChen is the name of the studio.
+*Before, my name was Pillar/柱子2334, but now it's not. Please don't call me that! I'm **imoutopia** now!<br>*
 
 </div>

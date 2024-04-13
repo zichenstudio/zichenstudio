@@ -1,11 +1,32 @@
-# ZiChenStudio :point_left:
+# Schedule
 
-## 近期计划 :sunglasses:
+## 2024/04/15-21
 
-- [ ] 整理[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构 :thinking:
+- [ ] 写一篇叫《跳啊！》的文章，在Blog发布
+- [ ] 看电影《爱尔兰人》(2019)
+- [ ] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
 
-## 已完成计划
+## 长期计划(2024/04)
 
+- [ ] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
+
+----------
+
+## 规则
+
+1. **提前一周计划**: 计划应在每周开始前制定，以确保充分的时间安排任务。
+2. **以周为单位**: 计划应以周为单位制定
+3. **临时决定**: 在计划期间临时决定的任务应推迟到下周的计划中，以避免扰乱当前计划。
+4. **长期计划**: 不能在短时间内完成的、短时间完成影响最终效果的等均列为长期计划，以月为单位。
+5. **计划变更**: 任何计划都可以更改、添加、延后、取消等。
+
+----------
+
+## 完成
+
+### 日期未知
+
+- [x] 整理[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构 :thinking:
 - [x] 将blog的about补充完整 :tada:
 - [x] 重写[ZiChenStudio](https://github.com/ZiChenStudio/ZiChenStudio)的README文件 :tada:
 - [x] [制作JavaTodo软件](https://github.com/ZiChenStudio/TodoApp-Java) :tada:
