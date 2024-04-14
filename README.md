@@ -33,5 +33,3 @@ console.log("dlroW olleH".split("").reverse().join(""));
 - [Bilibili](https://space.bilibili.com/1740643474)
 - [Github](https://github.com/zichenstudio)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26115908&auto=0&height=66"></iframe>
-
