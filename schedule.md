@@ -9,7 +9,7 @@
 - [ ] 写一篇工作室的介绍，在B站发布
 - [ ] 创建一个子沉工作室的文集
 - [ ] 为[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)添加宣传视频、文章链接
-- [ ] 美化一下[zichenstudio](https://github.com/zichenstudio/zichenstudio)的README文件
+- [x] 美化一下[zichenstudio](https://github.com/zichenstudio/zichenstudio)的README文件
 
 ### 长期计划(2024/04)
 
