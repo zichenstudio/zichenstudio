@@ -22,6 +22,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 ## Life
 
 - :thumbsup: [Schedule](schedule.md)
+- :writing_hand: [Blog](https://zichenstudio.github.io/blog/)
 
 ## Github
 

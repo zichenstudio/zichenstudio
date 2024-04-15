@@ -2,13 +2,13 @@
 
 ### 2024/04/15-21
 
-- [ ] 写一篇叫《跳啊！》的文章，在Blog发布
+- [x] 写一篇叫《跳啊！》的文章，在Blog发布
 - [ ] 看电影《爱尔兰人》(2019)
-- [ ] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
+- [x] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
 - [ ] 检查各个项目的README，更新制作人等信息
 - [ ] 写一篇工作室的介绍，在B站发布
 - [ ] 创建一个子沉工作室的文集
-- [ ] 为[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)添加宣传视频、文章链接
+- [x] 为[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)添加宣传视频、文章链接
 - [x] 美化一下[zichenstudio](https://github.com/zichenstudio/zichenstudio)的README文件
 
 ### 长期计划(2024/04)
