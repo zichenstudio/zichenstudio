@@ -4,13 +4,14 @@
 ### 2024/04/22-28
 
 - [ ] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
+- [ ] 用[BADmcpack](https://github.com/zichenstudio/BADmcpack)的README文件代替其官网
 
 ### 2024/04/15-21
 
 - [x] 写一篇叫《跳啊！》的文章，在Blog发布
 - [ ] 看电影《爱尔兰人》(2019)
 - [x] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
-- [ ] 检查各个项目的README，更新制作人等信息
+- [x] 检查各个项目的README，更新制作人等信息
 - [ ] 写一篇工作室的介绍，在B站发布
 - [ ] 创建一个子沉工作室的文集
 - [x] 为[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)添加宣传视频、文章链接
