@@ -8,7 +8,7 @@
 
 ### 2024/04/15-21
 
-- [x] 写一篇叫《跳啊！》的文章，在Blog发布
+- [x] 写一篇叫[《跳啊！》](https://zichenstudio.github.io/blog/2024/04/15/jumpa.html)的文章，在Blog发布
 - [ ] 看电影《爱尔兰人》(2019)
 - [x] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
 - [x] 检查各个项目的README，更新制作人等信息
