@@ -30,7 +30,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 
 ## Connect
 
-- [E-mail](zichenstudio@outlook.com)
+- [E-mail](mailto:zichenstudio@outlook.com)
 - [Bilibili](https://space.bilibili.com/1740643474)
 - [Github](https://github.com/zichenstudio)
 
