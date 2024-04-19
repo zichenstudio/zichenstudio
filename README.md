@@ -26,7 +26,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 
 ## Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&locale=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&hide=html,vim%20script,dockerfile)
 
 ## Connect
 
