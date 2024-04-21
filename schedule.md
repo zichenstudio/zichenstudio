@@ -6,6 +6,7 @@
 - [ ] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
 - [ ] 用[BADmcpack](https://github.com/zichenstudio/BADmcpack)的README文件代替其官网
 - [ ] 写一个html的button的CSS的gist
+- [ ] 通关一次Minecraft(1.16.4)单方块空岛
 
 ### 长期计划(2024/04)
 
