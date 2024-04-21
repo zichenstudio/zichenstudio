@@ -8,6 +8,7 @@
 - [ ] 写一个html的button的CSS的gist
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛
 - [ ] 更新PVZ-ZS版1.73t，为每个植物僵尸添加一句格言
+- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
 
 ### 长期计划(2024/04)
 
