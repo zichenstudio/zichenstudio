@@ -1,6 +1,11 @@
 # Schedule
 
 
+### 2024/04/29-05/05
+
+- [ ] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
+- [ ] 用一个log文件记录工作室进程，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
+
 ### 2024/04/22-28
 
 - [ ] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
