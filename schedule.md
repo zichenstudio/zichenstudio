@@ -9,8 +9,8 @@
 
 ### 2024/04/22-28
 
-- [ ] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
-- [ ] 把[Blog](https://zichenstudio.github.io/blog/)文章标点适当换成中文，修改不合适的markdown语法
+- [x] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
+- [x] 把[Blog](https://zichenstudio.github.io/blog/)文章标点适当换成中文，修改不合适的markdown语法
 - [ ] 用[BADmcpack](https://github.com/zichenstudio/BADmcpack)的README文件代替其官网
 - [ ] 写一个html的button的CSS的gist
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛
