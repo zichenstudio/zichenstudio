@@ -7,16 +7,10 @@
 - [ ] 用一个log文件记录工作室进程，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
 - [ ] 制作一个工作室成员表，命名为member，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
 - [ ] 制作一个链接文件，列出所有工作室相关的链接，命名为link，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
-
-### 2024/04/22-28
-
-- [x] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
-- [x] 把[Blog](https://zichenstudio.github.io/blog/)文章标点适当换成中文，修改不合适的markdown语法
-- [x] 用[BADmcpack](https://github.com/zichenstudio/BADmcpack)的README文件代替其官网
-- [ ] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的gist
-- [ ] 通关一次Minecraft(1.16.4)单方块空岛
-- [ ] 更新PVZ-ZS版1.73t，为每个植物僵尸添加一句格言
-- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
+- [ ] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的gist(已推迟1周)
+- [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1周)
+- [ ] 更新PVZ-ZS版1.73t，为每个植物僵尸添加一句格言(已推迟1周)
+- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能(已推迟1周)
 
 ### 长期计划(2024/04)
 
@@ -36,6 +30,12 @@
 ----------
 
 ## 完成
+
+### 2024/04/22-28
+
+- [x] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
+- [x] 把[Blog](https://zichenstudio.github.io/blog/)文章标点适当换成中文，修改不合适的markdown语法
+- [x] 用[BADmcpack](https://github.com/zichenstudio/BADmcpack)的README文件代替其官网
 
 ### 2024/04/15-21
 
