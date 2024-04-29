@@ -4,7 +4,6 @@
 ### 2024/04/29-05/05
 
 - [ ] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
-- [ ] 用一个log文件记录工作室进程，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
 - [ ] 制作一个工作室成员表，命名为member，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
 - [ ] 制作一个链接文件，列出所有工作室相关的链接，命名为link，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
 - [ ] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的gist(已推迟1周)
