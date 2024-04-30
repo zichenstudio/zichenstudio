@@ -1,12 +1,14 @@
 # Schedule
 
+### 2024/05/06-12
+
+- [ ] 清理文件
 
 ### 2024/04/29-05/05
 
 - [ ] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
 - [ ] 制作一个工作室成员表，命名为member，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
-- [ ] 制作一个链接文件，列出所有工作室相关的链接，命名为link，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
-- [ ] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的gist(已推迟1周)
+- [ ] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的[gist](https://gist.github.com/zichenstudio/39458d8e06a5cbfc5f0eb64c67ca9cc1)(已推迟1周)
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1周)
 - [ ] 更新PVZ-ZS版1.73t，为每个植物僵尸添加一句格言(已推迟1周)
 - [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能(已推迟1周)
