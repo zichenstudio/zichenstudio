@@ -13,7 +13,7 @@
 - [ ] 更新PVZ-ZS版1.73t，为每个植物僵尸添加一句格言(已推迟1周)
 - [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能(已推迟1周)
 
-### 长期计划(2024/04)
+### 长期计划(2024/05)
 
 - [ ] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
 
