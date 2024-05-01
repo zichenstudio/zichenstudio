@@ -6,7 +6,7 @@
 
 ### 2024/04/29-05/05
 
-- [ ] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
+- [x] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
 - [ ] 制作一个工作室成员表，命名为member，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
 - [x] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的[gist](https://gist.github.com/zichenstudio/39458d8e06a5cbfc5f0eb64c67ca9cc1)(已推迟1周)
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1周)
