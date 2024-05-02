@@ -24,6 +24,13 @@ console.log("dlroW olleH".split("").reverse().join(""));
 - :thumbsup: [Schedule](schedule.md)
 - :writing_hand: [Blog](https://zichenstudio.github.io/blog/)
 
+## ZiChenStudio
+
+- Founded in 2019
+- [member](member.md)
+
+*The Chinese translation is 子沉工作室*
+
 ## Github
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&hide=html,vim%20script,dockerfile)
