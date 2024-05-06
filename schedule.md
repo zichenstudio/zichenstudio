@@ -4,14 +4,8 @@
 
 - [ ] 清理文件
 - [ ] 写一篇叫《爱的交响曲》的文章，在Blog发布
-
-### 2024/04/29-05/05
-
-- [x] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
-- [x] 制作一个工作室成员表，命名为[member](member.md)，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
-- [x] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的[gist](https://gist.github.com/zichenstudio/39458d8e06a5cbfc5f0eb64c67ca9cc1)(已推迟1周)
-- [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1周)
-- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能(已推迟1周)
+- [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟2周)
+- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能(已推迟2周)
 
 ### 长期计划(2024/05)
 
@@ -31,6 +25,12 @@
 ----------
 
 ## 完成
+
+### 2024/04/29-05/05
+
+- [x] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
+- [x] 制作一个工作室成员表，命名为[member](member.md)，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
+- [x] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的[gist](https://gist.github.com/zichenstudio/39458d8e06a5cbfc5f0eb64c67ca9cc1)(已推迟1周)
 
 ### 2024/04/22-28
 
