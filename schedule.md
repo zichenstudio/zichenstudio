@@ -1,45 +1,35 @@
 # Schedule
 
-### 2024/05/06-12
+### 2024/05
 
 - [ ] 清理文件
 - [x] 写一篇叫《爱的交响曲》的文章，在Blog发布
-- [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟2周)
-- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能(已推迟2周)
-
-### 长期计划(2024/05)
-
+- [ ] 通关一次Minecraft(1.16.4)单方块空岛
+- [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
 - [ ] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
 
 ----------
 
 ## 规则
 
-1. **提前一周计划**: 计划应在每周开始前制定，以确保充分的时间安排任务。
-2. **以周为单位**: 计划应以周为单位制定
-3. **临时决定**: 在计划期间临时决定的任务应推迟到下周的计划中，以避免扰乱当前计划。
-4. **长期计划**: 不能在短时间内完成的、短时间完成影响最终效果的等均列为长期计划，以月为单位。
+1. **提前一周计划**: 计划应在每月开始前一周制定，以确保充分的时间安排任务。
+2. **以月为单位**: 计划应以月为单位制定
+3. **临时决定**: 在计划期间临时决定的任务应推迟到下月的计划中，以避免扰乱当前计划。
 5. **计划变更**: 任何计划都可以更改、添加、延后、取消等。
-6. **推迟计划**: 由于某些原因不能按时完成的计划可以进行推迟处理。应当注明已推迟时间，以周为单位。
+6. **推迟计划**: 由于某些原因不能按时完成的计划可以进行推迟处理。应当注明已推迟时间，以月为单位。
 
 ----------
 
 ## 完成
 
-### 2024/04/29-05/05
+### 2024/04
 
 - [x] 整理[Blog](https://zichenstudio.github.io/blog/)的标签
 - [x] 制作一个工作室成员表，命名为[member](member.md)，存放在[zichenstudio](https://github.com/zichenstudio/zichenstudio)里
-- [x] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的[gist](https://gist.github.com/zichenstudio/39458d8e06a5cbfc5f0eb64c67ca9cc1)(已推迟1周)
-
-### 2024/04/22-28
-
+- [x] 写一个[hitokoto](https://hitokoto.cn/)的JavaScript的[gist](https://gist.github.com/zichenstudio/39458d8e06a5cbfc5f0eb64c67ca9cc1)
 - [x] 把[Blog](https://zichenstudio.github.io/blog/)的文章标题在正文里面再打一遍，并都写上作者
 - [x] 把[Blog](https://zichenstudio.github.io/blog/)文章标点适当换成中文，修改不合适的markdown语法
 - [x] 用[BADmcpack](https://github.com/zichenstudio/BADmcpack)的README文件代替其官网
-
-### 2024/04/15-21
-
 - [x] 写一篇叫[《跳啊！》](https://zichenstudio.github.io/blog/2024/04/15/jumpa.html)的文章，在Blog发布
 - [x] 只读[TodoApp-Java](https://github.com/zichenstudio/TodoApp-Java)，因为只是个Demo
 - [x] 检查各个项目的README，更新制作人等信息
