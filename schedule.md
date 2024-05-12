@@ -6,7 +6,7 @@
 
 ### 2024/05
 
-- [ ] 清理文件
+- [x] 清理文件
 - [x] 写一篇叫《爱的交响曲》的文章，在Blog发布
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛
 - [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
