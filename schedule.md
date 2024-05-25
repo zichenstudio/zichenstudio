@@ -6,6 +6,7 @@
 - [ ] 更改[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构为代码块，方便复制
 - [ ] 制作一个HTML解谜游戏
 - [ ] 用zichenstudio.github.io做一个页面导航
+- [ ] 制作一个左右分割式的Jekyll theme
 
 ### 2024/05
 
