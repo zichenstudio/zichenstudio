@@ -14,7 +14,7 @@
 - [x] 写一篇叫[《爱的交响曲》](https://zichenstudio.github.io/blog/2024/05/07/symphony-of-love.html)的文章，在Blog发布
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛
 - [ ] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
-- [ ] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
+- [x] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
 
 ----------
 
