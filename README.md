@@ -6,7 +6,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 
 ## About me
 
-- :sunglasses: CEO & Co-Founder & Co-Worker of ZiChenStudio. :sunglasses:
+- :sunglasses: CEO & Co-Founder & Co-Worker of ZiChenStudio.
 - :keyboard: HTML5 / CSS3 / JavaScript / Python / Java
 - :abacus: Math
 - :joystick: Game
