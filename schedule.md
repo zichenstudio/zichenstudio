@@ -7,14 +7,7 @@
 - [ ] 制作一个HTML解谜游戏
 - [ ] 用zichenstudio.github.io做一个页面导航
 - [ ] 制作一个左右分割式的Jekyll theme
-
-### 2024/05
-
-- [x] 清理文件
-- [x] 写一篇叫[《爱的交响曲》](https://zichenstudio.github.io/blog/2024/05/07/symphony-of-love.html)的文章，在Blog发布
-- [ ] 通关一次Minecraft(1.16.4)单方块空岛
-- [x] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
-- [x] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
+- [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1月)
 
 ----------
 
@@ -29,6 +22,13 @@
 ----------
 
 ## 完成
+
+### 2024/05
+
+- [x] 清理文件
+- [x] 写一篇叫[《爱的交响曲》](https://zichenstudio.github.io/blog/2024/05/07/symphony-of-love.html)的文章，在Blog发布
+- [x] 做[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的世界观等功能
+- [x] 在[bilibili](https://www.bilibili.com/video/BV1xf4y157Db/)学习PPT
 
 ### 2024/04
 
