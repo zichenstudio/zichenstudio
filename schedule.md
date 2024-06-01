@@ -1,13 +1,16 @@
 # Schedule
 
+### 2024/07
+
+- [ ] 制作一个左右分割式的Jekyll theme
+- [ ] 用zichenstudio.github.io做一个页面导航
+
 ### 2024/06
 
 - [x] 制作一个密码生成器
 - [ ] 写一篇JavaScript相关的技术文章，在Blog发布
 - [x] 更改[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构为代码块，方便复制
 - [ ] 制作一个HTML解谜游戏
-- [ ] 用zichenstudio.github.io做一个页面导航
-- [ ] 制作一个左右分割式的Jekyll theme
 - [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1月)
 
 ----------
