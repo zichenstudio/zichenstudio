@@ -2,6 +2,7 @@
 
 ### 2024/06
 
+- [x] 制作一个密码生成器
 - [ ] 写一篇JavaScript相关的技术文章，在Blog发布
 - [ ] 更改[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构为代码块，方便复制
 - [ ] 制作一个HTML解谜游戏
