@@ -4,6 +4,7 @@
 
 - [ ] 制作一个左右分割式的Jekyll theme
 - [ ] 用zichenstudio.github.io做一个页面导航
+- [ ] 写一篇叫《星空》的文章，在Blog和Bilibili发布
 
 ### 2024/06
 
