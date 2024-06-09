@@ -1,10 +1,14 @@
 # Schedule
 
+### 2024/08
+
+- [ ] 用zichenstudio.github.io做一个页面导航
+
 ### 2024/07
 
 - [ ] 制作一个左右分割式的Jekyll theme
-- [ ] 用zichenstudio.github.io做一个页面导航
 - [ ] 写一篇叫《星空》的文章，在Blog和Bilibili发布
+- [ ] 更新特别鸣谢之类人员名单数据
 
 ### 2024/06
 
