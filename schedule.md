@@ -12,14 +12,6 @@
 - [ ] 写一篇叫《照片》的文章，在Blog和Bilibili发布
 - [ ] 更新特别鸣谢之类人员名单数据
 
-### 2024/06
-
-- [x] 制作一个密码生成器
-- [x] 写一篇JavaScript相关的技术文章，在Blog发布
-- [x] 更改[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构为代码块，方便复制
-- [x] 为[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)再做一个宣传片
-- [ ] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1月)
-
 ----------
 
 ## 规则
@@ -33,6 +25,14 @@
 ----------
 
 ## 完成
+
+### 2024/06
+
+- [x] 制作一个密码生成器
+- [x] 写一篇JavaScript相关的技术文章，在Blog发布
+- [x] 更改[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)的结构为代码块，方便复制
+- [x] 为[ChatGPT-Arona](https://github.com/zichenstudio/ChatGPT-Arona)再做一个宣传片
+- [x] 通关一次Minecraft(1.16.4)单方块空岛(已推迟1月)
 
 ### 2024/05
 
