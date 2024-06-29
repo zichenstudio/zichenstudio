@@ -4,12 +4,13 @@
 
 - [ ] 用zichenstudio.github.io做一个页面导航
 - [ ] 制作一个电脑操作练习网站。给出要求的操作结果，定时切换
+- [ ] 写一篇叫《星空》的文章，在Blog和Bilibili发布
 
 ### 2024/07
 
-- [ ] 制作一个左右分割式的Jekyll theme
-- [ ] 写一篇叫《星空》的文章，在Blog和Bilibili发布
+- [x] 制作一个左右分割式的[Jekyll theme](https://github.com/zichenstudio/ECHO)
 - [ ] 写一篇叫《照片》的文章，在Blog和Bilibili发布
+- [ ] 把[原Blog](https://github.com/zichenstudio/blog)中与技术无关的原创文章搬到[新Blog](https://github.com/zichenstudio/imoutopiablog)里
 - [ ] 更新特别鸣谢之类人员名单数据
 
 ----------
