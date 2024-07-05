@@ -10,7 +10,7 @@
 
 - [x] 制作一个左右分割式的[Jekyll theme](https://github.com/zichenstudio/ECHO)
 - [ ] 写一篇叫《照片》的文章，在Blog和Bilibili发布
-- [ ] 把部分[原Blog](https://github.com/zichenstudio/blog)中与技术无关的原创文章搬到[新Blog](https://github.com/zichenstudio/imoutopiablog)里
+- [x] 把部分[原Blog](https://github.com/zichenstudio/blog)中与技术无关的原创文章搬到[新Blog](https://github.com/zichenstudio/imoutopiablog)里
 - [ ] 更新特别鸣谢之类人员名单数据
 
 ----------
