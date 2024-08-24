@@ -1,17 +1,10 @@
 # Schedule
 
-### 2024/08
-
+### 2024/09
 - [ ] 用zichenstudio.github.io做一个页面导航
-- [ ] 制作一个电脑操作练习网站。给出要求的操作结果，定时切换
-- [ ] 写一篇叫《星空》的文章，在Blog和Bilibili发布
 
-### 2024/07
-
-- [x] 制作一个左右分割式的[Jekyll theme](https://github.com/zichenstudio/ECHO)
-- [x] 写一篇叫《照片》的文章，在[Blog](https://zichenstudio.github.io/imoutopiablog/2024/07/11/photo.html)发布
-- [x] 把部分[原Blog](https://github.com/zichenstudio/blog)中与技术无关的原创文章搬到[新Blog](https://github.com/zichenstudio/imoutopiablog)里
-- [x] 更新特别鸣谢之类人员名单数据
+### 2024/08
+- [x] 更新PVZZS版
 
 ----------
 
@@ -26,6 +19,13 @@
 ----------
 
 ## 完成
+
+### 2024/07
+
+- [x] 制作一个左右分割式的[Jekyll theme](https://github.com/zichenstudio/ECHO)
+- [x] 写一篇叫《照片》的文章，在[Blog](https://zichenstudio.github.io/imoutopiablog/2024/07/11/photo.html)发布
+- [x] 把部分[原Blog](https://github.com/zichenstudio/blog)中与技术无关的原创文章搬到[新Blog](https://github.com/zichenstudio/imoutopiablog)里
+- [x] 更新特别鸣谢之类人员名单数据
 
 ### 2024/06
 
