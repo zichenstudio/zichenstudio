@@ -2,6 +2,7 @@
 
 ### 2024/11
 - [ ] 搭建子沉导航站
+- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述
 
 ----------
 
