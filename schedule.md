@@ -1,11 +1,14 @@
 # Schedule
 
-### 2024/11
+### 2025/01
 
-- [x] 更新一篇文章[《黄昏被夜晚吞噬》](https://zichenstudio.github.io/imoutopiablog/2024/11/23/dusk-is-swallowed-up-by-night.html)
-- [ ] 将10月的那篇文章尽快取好题目发布
-- [ ] 搭建子沉导航站
-- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述
+- [ ] 搭建子沉导航站（已推迟2月）
+
+### 2024/12
+
+- [ ] 将10月的那篇文章尽快取好题目发布（已推迟1月）
+- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述（已推迟1月）
+- [ ] 制作标准性文件，参考Google Style
 
 ----------
 
@@ -20,6 +23,10 @@
 ----------
 
 ## 完成
+
+### 2024/11
+
+- [x] 更新一篇文章[《黄昏被夜晚吞噬》](https://zichenstudio.github.io/imoutopiablog/2024/11/23/dusk-is-swallowed-up-by-night.html)
 
 ### 2024/10
 - [x] 更新一下个人Blog
