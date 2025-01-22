@@ -1,11 +1,11 @@
 # Schedule
 
-### 2025/01
+- [ ] 制作标准性文件，参考Google Style（搁置）
+- [ ] 搭建子沉导航站（搁置）
 
-- [ ] 搭建子沉导航站（已推迟2月）
-- [ ] 将10月的那篇文章尽快取好题目发布（已推迟2月）
-- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述（已推迟2月）
-- [ ] 制作标准性文件，参考Google Style（已推迟1月）
+### 2025/02
+
+- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述（已推迟3月）
 
 ----------
 
@@ -20,6 +20,10 @@
 ----------
 
 ## 完成
+
+### 2025/01
+
+- [x] 将10月的那篇文章尽快取好题目发布（已推迟2月）
 
 ### 2024/12
 
