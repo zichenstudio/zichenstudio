@@ -1,11 +1,10 @@
 # Schedule
 
+现实中的事耗费了我太多的时间，我需要先去处理现实中的事。
+
 - [ ] 制作标准性文件，参考Google Style（搁置）
 - [ ] 搭建子沉导航站（搁置）
-
-### 2025/02
-
-- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述（已推迟3月）
+- [ ] 补上[FFmpeg-WebGUI](https://github.com/zichenstudio/FFmpeg-WebGUI)的README和描述（已推迟3月）（搁置）
 
 ----------
 
