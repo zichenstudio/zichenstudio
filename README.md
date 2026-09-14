@@ -7,7 +7,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 ## About me
 
 - :sunglasses: CEO & Co-Founder & Co-Worker of ZiChenStudio.
-- :keyboard: HTML5 / CSS3 / JavaScript / Python / Java
+- :keyboard: HTML5 / CSS3 / JavaScript / TypeScript
 - :abacus: Math
 - :joystick: Game
 - :tv: Anime
@@ -34,7 +34,7 @@ console.log("dlroW olleH".split("").reverse().join(""));
 
 ## Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&hide=html,vim%20script,dockerfile)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zichenstudio&count_private=true&show_icons=true&text_color=39c5bb&icon_color=39c5bb&title_color=39c5bb&hide=html,vim%20script,dockerfile)
 
 ## Connect
 
